@@ -1,19 +1,21 @@
-[![Build Status]
+[![Build Status] (https://travis-ci.org/wangmeiji/blogpost-prometheus.svg?branch=masterA)](
+://travis-ci.org/wangmeiji/blogpost-prometheus)
 
+ 
 ### What to find on this repo:   
 
-How to use docker-compose to run Prometheus in an docker environment. It covers various components:
+How to use docker-compose to run Prometheus in a docker environment. It covers various components:
 - Prometheus 
 - Grafana 
 - AlertManager
 
-the updated syntax and recent version of components is updated in Part1 folder 
+The updated syntax and component version are updated in part1 folder 
 - prom/prometheus:v2.0.0
 - prom/node-exporter:v0.15.1
 - grafana/grafana:4.6.2
 
 ### Doc: 
-Please visit [wiki](http://opencapacity.co/news/2016/5/12/dev-talk-monitoring-with-prometheus-grafana-docker-part-1, http://opencapacity.co/news/2016/6/6/dev-talk-monitoring-with-prometheus-grafana-docker-part-2, ) to get all the details regarding this project.  
+Please visit [wiki](http://opencapacity.co/news/2016/5/12/dev-talk-monitoring-with-prometheus-grafana-docker-part-1, http://opencapacity.co/news/2016/6/6/dev-talk-monitoring-with-prometheus-grafana-docker-part-2) to get all the details regarding this project.  
 
 
 ### How to clone this repo:
