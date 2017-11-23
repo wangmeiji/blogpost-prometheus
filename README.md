@@ -1,5 +1,4 @@
-[![Build Status] (https://travis-ci.org/wangmeiji/blogpost-prometheus.svg?branch=masterA)](
-://travis-ci.org/wangmeiji/blogpost-prometheus)
+[![Build Status] (https://travis-ci.org/wangmeiji/blogpost-prometheus.svg?branch=master)](https://travis-ci.org/wangmeiji/blogpost-prometheus)
 
  
 ### What to find on this repo:   
